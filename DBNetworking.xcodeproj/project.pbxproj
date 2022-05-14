@@ -16,6 +16,7 @@
 		6E0EAEA9282E97B400B3C4F6 /* DBNetworkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0EAEA8282E97B400B3C4F6 /* DBNetworkingTests.swift */; };
 		6E0EAEB3282E97B400B3C4F6 /* DBNetworkingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0EAEB2282E97B400B3C4F6 /* DBNetworkingUITests.swift */; };
 		6E0EAEB5282E97B400B3C4F6 /* DBNetworkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0EAEB4282E97B400B3C4F6 /* DBNetworkingUITestsLaunchTests.swift */; };
+		6E0EAEC2282E9E0400B3C4F6 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0EAEC1282E9E0400B3C4F6 /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6E0EAEAE282E97B400B3C4F6 /* DBNetworkingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DBNetworkingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E0EAEB2282E97B400B3C4F6 /* DBNetworkingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBNetworkingUITests.swift; sourceTree = "<group>"; };
 		6E0EAEB4282E97B400B3C4F6 /* DBNetworkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBNetworkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6E0EAEC1282E9E0400B3C4F6 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				6E0EAE91282E97B100B3C4F6 /* AppDelegate.swift */,
 				6E0EAE93282E97B100B3C4F6 /* SceneDelegate.swift */,
 				6E0EAE95282E97B100B3C4F6 /* ViewController.swift */,
+				6E0EAEC1282E9E0400B3C4F6 /* WebViewController.swift */,
 				6E0EAE97282E97B100B3C4F6 /* Main.storyboard */,
 				6E0EAE9A282E97B400B3C4F6 /* Assets.xcassets */,
 				6E0EAE9C282E97B400B3C4F6 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				6E0EAE96282E97B100B3C4F6 /* ViewController.swift in Sources */,
 				6E0EAE92282E97B100B3C4F6 /* AppDelegate.swift in Sources */,
 				6E0EAE94282E97B100B3C4F6 /* SceneDelegate.swift in Sources */,
+				6E0EAEC2282E9E0400B3C4F6 /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
